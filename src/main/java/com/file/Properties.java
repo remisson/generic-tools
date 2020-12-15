@@ -1,7 +1,8 @@
+package com.file;
 /**
  * Java properties manipulation
  */
-package com.file;
+
 
 import java.io.InputStream;
 import java.util.HashMap;
